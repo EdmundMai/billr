@@ -1,0 +1,9 @@
+
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: billr_development
+  pool: 5
+  localhost: 3000
+  username: edmundmai
+  password:
